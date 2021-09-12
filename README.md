@@ -22,7 +22,7 @@ https://validator.w3.org/nu/#textarea
 ##### A more comprehensive README.md file can be found in my libraries section:
 /README.md
 
-This is a website that has been given a complete facelift.  It has a bright, sassy appearance while capturing the "Swinging 60s" mood!
+This is a website has beeb used as a template for my latest project rewild-london and will be heavily modified to suit my current purposes. This website will use the principles of the below UI UX processes. It has been given a complete facelift.  It has a bright, sassy appearance while capturing the "Swinging 60s" mood!
 I think I have provided a UX experience targeted at fans but also to encourage new visitors to the site.
 The Audience has a clearer understanding of where they can access information in a simplified user-friendly way.
 
