@@ -628,7 +628,7 @@ https://help.github.com/en/articles/about-pull-requests
 <!---------------------------------------------------------------------------------------------------->
 
 ### Technologies Used: This is a bootstrap feature - Bootstrap Float left and right button bar
-I add a bootstrap feature which I like and styled it at the base of my gallery page.  A float right and float left button bar which I find strikeing and very user friendly to sign up for newsletter and to join sign up for the latest happenings.
+I add a bootstrap feature which I like and styled it at the base of my gallery page.  A float right and float left button bar which I find striking and very user friendly to sign up for newsletter and to join sign up for the latest happenings.
 
 ### Carousel - Website template &amp. (photo slide show)
 I use a basic "carousel"  template to create some interesting features. I deploy the top interactive carousel without the photograph album slides which I will deploy at a later date.
@@ -695,4 +695,3 @@ A bright sassy UX and UI experience awaits the visitor to the site from all walk
 # A fitting tribute to an illustrious English Band!
 
                         -Ends-
-https://travis-ci.com/SOliv1/procol-harum-beyond-the-pale.svg?branch=master
