@@ -67,7 +67,7 @@ li a:hover:not(.active) {
 }
 
 .container-wrapper--red {
-    background-color: #4CAF50;;
+    background-color: #4CAF50;
     color: #fff;
 }
 
@@ -173,6 +173,7 @@ h3 .text-header {
 .jumbotron .lead {
     margin: 35px auto;
     text-align: center;
+    
 }
 
 p {
@@ -183,7 +184,7 @@ p {
 }
 
 a {
-    color: #fff;
+    color: #000;
     text-decoration: none;
     background-color: transparent;
     text-align: center;
@@ -407,8 +408,7 @@ h4 {
 
 .btn--red {
     color: #fff;
-    background-color: #f05f40;
-
+    background-color: #4CAF50;
 }
 
 .btn--red:hover,
@@ -547,7 +547,7 @@ p span {
 
 
 .image {
-    background-image: url("../images/backstageband.png");
+    background-image: url("../images/AdobeStock_319169144_Preview.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 100%;
@@ -564,9 +564,9 @@ p span {
 /*--bg-info .clearfix .style --*/
 
 .bg-info {
-    background-color: #ce5a2b! important;
+    background-color: #4CAF50 important;
 }
-
+.bg-info
 .btn .btn-secondary {
     color: #fff;
     background-color: #df4929;
