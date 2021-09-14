@@ -221,7 +221,7 @@ a:hover {
 
 
 .jumbotron-header {
-    color: #ffc107;
+    color: #fff;
 }
 
 .jumbotron-header-1 span {
@@ -460,7 +460,7 @@ h4 {
 body {
     font-family: 'Lato', sans-serif;
     margin-top: auto;
-    padding-bottom: 3rem;
+    padding-bottom: 2rem;
     font-size: 20px;
 }
 
@@ -547,7 +547,7 @@ p span {
 
 
 .image {
-    background-image: url("../images/AdobeStock_319169144_Preview.jpeg");
+    background-image: url("../images/AdobeStock_325977963_Preview.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 100%;
